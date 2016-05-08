@@ -1,0 +1,21 @@
+#
+## Alias OBJ Material File
+# Exported from SketchUp, (c) 2000-2006 Google, Inc.
+
+newmtl RW_06_Larchwood
+Ka 0.000000 0.000000 0.000000
+Kd 0.929412 0.756863 0.501961
+Ks 0.330000 0.330000 0.330000
+map_Kd chair0001/RW_06_Larchwood.jpg
+
+newmtl RW_08_Galvanized_Steel
+Ka 0.000000 0.000000 0.000000
+Kd 0.690196 0.737255 0.760784
+Ks 0.330000 0.330000 0.330000
+map_Kd chair0001/RW_08_Galvanized_Steel.jpg
+
+newmtl RW_02_Grey
+Ka 0.000000 0.000000 0.000000
+Kd 0.227451 0.227451 0.227451
+Ks 0.330000 0.330000 0.330000
+
